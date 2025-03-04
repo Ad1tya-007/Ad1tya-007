@@ -12,8 +12,6 @@ I am a recent grad from Simon Fraser University with a strong passion for full-s
 ## Github Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ad1tya-007&show_icons=true&theme=radical&include_all_commits=true&count_private=true)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad1tya-007&layout=compact&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ad1tya-007&theme=radical)
-
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-kulkarni-a4a46523a/)
 [![Email](https://img.shields.io/badge/Email-Email-red?style=flat&logo=gmail)](mailto:adityakul0314@gmail.com)
