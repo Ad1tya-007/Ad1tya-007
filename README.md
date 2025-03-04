@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I am Aditya Kulkarni 👋
 
-<!--
-**Ad1tya-007/Ad1tya-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a recent grad from Simon Fraser University with a strong passion for full-stack web development. Throughout my academic journey and various hands-on projects, I have gained comprehensive experience building dynamic, user-focused applications. My work spans both frontend and backend development, where I focus on creating scalable, efficient solutions that enhance user experiences.
 
-Here are some ideas to get you started:
+## Skill and Technologies
+* Programming Languages: JavaScript, TypeScript, HTML, CSS, Java, C++ and Swift.
+* Frontend: React, Next.js, Tailwind CSS and Redux.
+* Backend: Node.js, MongoDB, Supabase and MySQL.
+* Tools & Testing: Cypress, Appium, Git, Figma and Vite.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ad1tya-007&show_icons=true&theme=radical&include_all_commits=true&count_private=true)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad1tya-007&layout=compact&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ad1tya-007&theme=radical)
+
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-kulkarni-a4a46523a/)
+[![Email](https://img.shields.io/badge/Email-Email-red?style=flat&logo=gmail)](mailto:adityakul0314@gmail.com)
+
+
