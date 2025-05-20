@@ -11,6 +11,9 @@ I am a fourth year CS student at Simon Fraser University with a strong passion f
 * Backend: Node.js, MongoDB, Supabase and MySQL.
 * Tools & Testing: Cypress, Appium, Git, Figma and Vite.
 
+## Open Source Contributions
+- Tweakcn — [https://github.com/jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)
+
 ## Github Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ad1tya-007&show_icons=true&theme=radical&include_all_commits=true&count_private=true)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad1tya-007&layout=compact&theme=radical)
 
