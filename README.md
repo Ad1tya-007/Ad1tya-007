@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Ad1tya-007)
 
 ## About Me
-I am a recent grad from Simon Fraser University with a strong passion for full-stack web development. Throughout my academic journey and various hands-on projects, I have gained comprehensive experience building dynamic, user-focused applications. My work spans both frontend and backend development, where I focus on creating scalable, efficient solutions that enhance user experiences.
+I am a fourth year CS student at Simon Fraser University with a strong passion for full-stack web development. Throughout my academic journey and various hands-on projects, I have gained comprehensive experience building dynamic, user-focused applications. My work spans both frontend and backend development, where I focus on creating scalable, efficient solutions that enhance user experiences.
 
 ## Skill and Technologies
 * Programming Languages: JavaScript, TypeScript, HTML, CSS, Java, C++ and Swift.
