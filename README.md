@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Ad1tya-007)
 
 ## About Me
-I am a fourth year CS student at Simon Fraser University with a strong passion for full-stack web development. Throughout my academic journey and various hands-on projects, I have gained comprehensive experience building dynamic, user-focused applications. My work spans both frontend and backend development, where I focus on creating scalable, efficient solutions that enhance user experiences.
+I am a recent grad CS student from Simon Fraser University with a strong passion for full-stack web development and currently a Software Engineer at Bridgemark. Throughout my academic journey and various hands-on projects, I have gained comprehensive experience building dynamic, user-focused applications. My work spans both frontend, backend development and AI, where I focus on creating scalable, efficient solutions that enhance user experiences.
 
 ## Skill and Technologies
 * Programming Languages: JavaScript, TypeScript, HTML, CSS, Java, C++ and Swift.
@@ -13,6 +13,7 @@ I am a fourth year CS student at Simon Fraser University with a strong passion f
 
 ## Open Source Contributions
 - Tweakcn — [https://github.com/jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)
+- Material UI - [https://github.com/mui/material-ui](https://github.com/mui/material-ui)
 
 ## Github Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ad1tya-007&show_icons=true&theme=radical&include_all_commits=true&count_private=true)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad1tya-007&layout=compact&theme=radical)
