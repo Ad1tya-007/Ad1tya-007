@@ -14,6 +14,7 @@ I am a recent grad CS student from Simon Fraser University with a strong passion
 ## Projects
 - [InterviewPrep](https://interview-prep-livid.vercel.app/) - AI-powered Interview platform for people to generate and practice their interviews.
 - [Prodlines](https://prodlines.vercel.app/) - Github stats leaderboard for tracking merged production code.
+- [Whatsapp-cli](https://www.npmjs.com/package/@adityakul0314/wacli) - Send messages on whatsapp via terminal.
 
 ## Open Source Contributions
 - Tweakcn — [https://github.com/jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn)
